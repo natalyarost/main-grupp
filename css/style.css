@@ -13,11 +13,11 @@ html, body {
 
 body {
     display: flex;
-	flex-direction: column;
+    flex-direction: column;
     max-width: 1440px;
     padding: 0 70px;
     margin: 0 auto;
-    min-height: 1080px;
+    height: 100vh;
 }
 
 img {
